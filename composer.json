@@ -1,0 +1,19 @@
+{
+    "name": "YangJiaSheng1997/timerange",
+    "description": "日期范围获取",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yjs",
+            "email": "494268485@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Timerange\\": "src/"
+        }
+    }
+}
