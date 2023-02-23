@@ -6,7 +6,7 @@
 ## 安装
 
 ```shell
-$ composer require yjs/timerange -vvv
+$ composer require yangjiasheng1997/timerange
 ```
 
 ## 使用
